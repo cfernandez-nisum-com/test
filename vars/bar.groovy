@@ -1,3 +1,3 @@
 def call() {
-  new Bar()
+  new Bar().Bar()
 }
