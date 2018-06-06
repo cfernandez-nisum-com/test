@@ -1,3 +1,4 @@
 def call() {
-  new Bar().barPrint()
+  new Bar();
+  new Bar().barPrint();
 }
